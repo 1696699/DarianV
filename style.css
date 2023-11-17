@@ -1,0 +1,25 @@
+#mynavbar{
+    text-shadow: darkblue 1px 1px;
+}
+#navbarTitle{
+    text-shadow: darkblue 1px 1px;
+}
+#body1{
+    background-color: mediumslateblue;
+    color: white;
+    text-shadow: darkblue 1px 1px;
+    text-align: center;
+}
+#profile{
+    border: solid;
+    border-width: 5px;
+    color: slateblue;
+    width: 300px;
+    border-style: dashed;
+    border-radius: 50%;
+
+}
+#about1{
+    margin-inline: 20%;
+    
+}
